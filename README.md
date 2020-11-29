@@ -1,5 +1,9 @@
 ## Features
 - signup and signin
+- Emergency Response (General Emergency)
+- Medical History
+- Profile
+- Direction
 - create individual and group chats and delete them
 - view and add messages
 - dark mode
