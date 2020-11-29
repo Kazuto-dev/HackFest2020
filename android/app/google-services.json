@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1023360579916",
+    "firebase_url": "https://one-tap-296910.firebaseio.com",
+    "project_id": "one-tap-296910",
+    "storage_bucket": "one-tap-296910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023360579916:android:9e0334c94d3ee66c82f7e9",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023360579916-89bu0f4l5rqkkuv2j8i9c4f5bvrepsm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH12oa5RB6uTNa7-CfBRpRFzSai1l3HGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023360579916-89bu0f4l5rqkkuv2j8i9c4f5bvrepsm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
